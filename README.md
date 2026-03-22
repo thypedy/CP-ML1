@@ -138,8 +138,8 @@ O projeto demonstrou a aplicação completa do pipeline de Machine Learning, evi
 ---
 
 ## 👨‍💻 Autores
-Andrey Nagata - Rm555339
-Henrique Soubhia - Rm554493
-Oliver Trindade - Rm554954
-Pedro Gutierre - Rm555445
-William Feng - Rm555132
+* Andrey Nagata - Rm555339
+* Henrique Soubhia - Rm554493
+* Oliver Trindade - Rm554954
+* Pedro Gutierre - Rm555445
+* William Feng - Rm555132
